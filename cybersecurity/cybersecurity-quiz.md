@@ -395,10 +395,10 @@ autopsy is for forensic analysis
 
 #### Q51. You have recovered a server that was compromised in a malware attack to its previous state. What is the final step in the incident response process?
 
-- [x] Eradication / Remediation
+- [ ] Eradication / Remediation
 - [ ] Certification
 - [ ] Reporting
-- [ ] Lessons Learned
+- [x] Lessons Learned
 
 #### Q52. Which type of security assessment requires access to source code?
 
@@ -418,7 +418,7 @@ autopsy is for forensic analysis
 
 - [ ] Reporting
 - [ ] Recovery
-- [ ] Eradiction / Remediation
+- [x] Eradiction / Remediation
 - [ ] Lessons Learned
 
 #### Q55. Which programming language is most susceptible to buffer overflow attacks?
@@ -640,7 +640,7 @@ autopsy is for forensic analysis
 
 #### Q86. When does static application security testing require access to source code?
 
-- [ ] always
+- [x] always
 - [ ] only when assessing regulatory compliance
 - [ ] only if following the Agile model
 - [ ] never
@@ -679,4 +679,18 @@ What are the primary goals of the digital signature in this scenario? (Choose th
 - [ ] MD5
 - [ ] Caesar cipher
 - [ ] symmetric-key encryption
-- [ ] asymmetric-key encryption
+- [?] asymmetric-key encryption
+
+#### Q91. Which type of attack vulnerabilities associated with translating MAC addresses into IP addresses in computer networking?
+
+- [ ] ARP spoofing
+- [ ] CRL trapping
+- [ ] DDOS
+- [?] DNS poisoning
+
+#### Q92. Which option is a framework widely utilized by organizations in the development of security governance standards?
+
+- [ ] The Open Group Architecture Framework (TOGAF)
+- [?] Control Objectives for Information and Related Technologies (COBIT)
+- [ ] Software Capability Maturity Model (SW-CMM)
+- [ ] Software Development Lifecycle (SDLC)
